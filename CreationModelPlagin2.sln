@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationModelPlagin2", "CreationModelPlagin2\CreationModelPlagin2.csproj", "{3C419C4F-900D-485C-A859-F3E12FB6C02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C419C4F-900D-485C-A859-F3E12FB6C02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C419C4F-900D-485C-A859-F3E12FB6C02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C419C4F-900D-485C-A859-F3E12FB6C02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C419C4F-900D-485C-A859-F3E12FB6C02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510F7B6D-5C8F-4EDA-9DCA-8BC84A1BE77E}
+	EndGlobalSection
+EndGlobal
